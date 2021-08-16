@@ -1,0 +1,4 @@
+#Do note that this is only a regular python hello world program
+print("Hello world!")
+break
+#and thats it :D
